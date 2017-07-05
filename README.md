@@ -26,7 +26,7 @@ This porject is for learning how to Rigid Body Simulation by Euler method in C l
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/yoshimoto56/rigideuler/blob/master/LICENSE)
 
 ## Author
 
